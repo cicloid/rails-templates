@@ -109,9 +109,9 @@ END
 
   initializer 'action_mailer_configs.rb', 
   %q{ActionMailer::Base.smtp_settings = {
-      :address => "smtp.thoughtbot.com",
+      :address => "smtp.gmail.com",
       :port    => 25,
-      :domain  => "thoughtbot.com"
+      :domain  => "foobarra.com"
   }
   }
 
