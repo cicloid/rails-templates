@@ -39,7 +39,6 @@ END
   plugin 'limerick_rake', :git => "git://github.com/thoughtbot/limerick_rake.git", :submodule => true
   plugin 'mile_marker', :git => "git://github.com/thoughtbot/mile_marker.git", :submodule => true
   plugin 'squirrel', :git => "git://github.com/thoughtbot/squirrel.git", :submodule => true
-  plugin 'jrails', http://ennerchi.googlecode.com/svn/trunk/plugins/jrails
   
 # Install all gems
   gem 'RedCloth', :lib => 'redcloth', :version => '~> 3.0.4'
